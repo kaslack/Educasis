@@ -1,0 +1,106 @@
+html {
+    box-sizing: border-box;
+    font-size: 52.5%;
+    /** reset para REMS-62.5% = 10px **/
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+#fondo1 {
+    background-image: url("https://dam.ngenespanol.com/wp-content/uploads/2019/07/jovenes-vuelta-al-mundo.png ");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+#fondo2 {
+    background-image: url("https://media.elmostrador.cl/2017/06/matematicas-451x300.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.ContenidoPrincipal {
+    width: auto;
+    background: #ffffffc0;
+    border: black 3px solid;
+    border-radius: 10px;
+    margin-top: 0%;
+}
+
+.textoPrincipal {
+    width: 45%;
+    float: left;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 4% 3%;
+    color: black;
+}
+
+p {
+    font-size: 30px;
+    margin: 4% 8%;
+}
+
+table,
+th,
+td {
+    margin: 0;
+    border: solid 2.5px;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.formula {
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.formula p {
+    text-align: left;
+}
+
+.PartesForm {
+    margin-top: 45px;
+    margin-left: -75px;
+}
+
+.parteSup,
+.parteInf {
+    width: 100%;
+}
+
+.parteSup {
+    border-bottom: 2px solid;
+}
+
+.indice {
+    width: 40%;
+    margin: auto;
+}
+
+#cw p {
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: white;
+}

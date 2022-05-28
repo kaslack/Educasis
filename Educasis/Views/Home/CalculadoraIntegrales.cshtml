@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Calculator";
+    Layout = "_Layout2";
+}
+
+<script>
+    function calcular() {
+        fx = document.funcion[0].value;
+        a = eval(document.funcion[1].value);
+        b = eval(document.funcion[2].value);
+        n = parseInt(document.funcion[3].value);
+        dx = (b - a) / n;
+        si = 0;
+        sd = 0;
+        for (i = 0; i < n; i++) {
+            x = a + i * dx;
+            fi = eval(fx);
+            si = si + fi * dx;
+            x = a + (i + 1) * dx;
+            fd = eval(fx);
+            sd = sd + fd * dx
+        }
+        document.funcion[5].value = si;
+        document.funcion[6].value = dx;
+    }
+</script>
+
+<main class="contenedor seccion contenido-centrado">
+    <article class="entrada">
+        <h2 class="fw-300 centrar-texto">
+        Defined integral by Riemman sum.
+        </h2>
+        <p>how our calculator function?</p>
+        <p class="fw-300">This calculator of integrals it design specifically to solve integrals of the polinomic order, quadratics, cubics, ETC.<br>
+        To can it arrive to a correct result is necessary use the functions of the next shape
+        </p>
+        <h4>Examples:</h4>
+        <div class="color-azul">
+            <li>x^2 = x*x</li>
+            <li>3x^2 = 3*x*x</li>
+            <li>3x^2+1 = 3*x*x+1</li>
+            <li>x^3 = x*x*x</li>
+            <li>x^2/2 = x*x/2</li>
+
+        </div>
+    </article>
+    <article class="entrada">
+    <form name="funcion">
+        Introduce the function<input type="text" size=25>
+        Introduce the top limit<input type="text" size=3>
+        Introduce the lower limit<input type="text" size=3>
+        Introduce the number of intervals<input type="text" size=3>
+        <input class="boton1 boton-amarillo d-block" type="button" value="Calcular" OnClick="calcular()">
+        Result approximate<input type="text" size=5>
+        Spaciousness of the intervals<input type="text" size=5>
+    </form>
+    </article>
+</main>

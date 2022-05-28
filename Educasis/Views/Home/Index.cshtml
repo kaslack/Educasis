@@ -1,0 +1,136 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Index";
+}
+<header class="site-header inicio">
+    <div class="contenedor contenido-header">
+        <div class="barra">
+            <a asp-action="Index">
+                <img src="~/img/logo4.png" alt="logo" width="300px" height="200px">
+            </a>
+            <nav class="navegacion">
+                <a asp-controller="Home" asp-action="Limits">Limits</a>
+                <a asp-controller="Home" asp-action="LimitsPractice">Limits Practice</a>
+                <a asp-controller="Home" asp-action="Integrals">Integrals</a>
+                <a asp-controller="Home" asp-action="Phisics">Physics</a>
+                <a asp-controller="Home" asp-action="Electronic">Electronic</a>
+                <a asp-controller="Home" asp-action="Vote">Rate us</a>
+            </nav>
+        </div>
+        <main class="contenido-principal">
+            <h4>
+                <p>
+                    Website dedicated to all young people
+                    entrepreneurs who want to enrich their knowledge in mathematics, physics and electronics.
+                    You'll find topics like limits, integrals, unit conversions, theorems, electronic examples, and more!
+                </p>
+            </h4>
+        </main>
+    </div>
+    <!--contenedor-->
+</header>
+<div class="borrar">
+    <section class="contenedor">
+        <h1 class="fw-300 centrar-texto">Maybe interest you</h1>
+        <div class="iconos-nosotros">
+            <div class="icono">
+                <h3>Limits</h3>
+                <p style="font-size: 20px">The limit concept involve understand behavior of one function when the independ variable is 
+                "much nearby" of a especific number, whitout take his value.</p>
+            </div>
+            <div class="icono">
+                <h3>Integrals</h3>
+                <p style="font-size: 20px">To calculate the area of ​​the region S that`s below of the y=f(x) curve, should understand that S is a region 
+                limited for the grafic of the continue function f, the vertical straights 
+                    x=a,
+                    x=b, and the x axle.</p>
+            </div>
+            <div class="icono">
+                <h3>physics</h3>
+                <p style="font-size: 20px">Metrology is the science of the measurement of the magnitudes to guarantee 
+                their normalization through traceability.</p>
+            </div>
+        </div>
+    </section>
+    <main class=" seccion contenedor">
+        <div class="contenedor-anuncios">
+            <div class="anuncio">
+                <img src="~/img/limites.png" alt="anuncio casa en el lago" height="200px" width="600px">
+                <div class="contenido-anuncio">
+                    <h3>Limits</h3>
+                    <a asp-action="Limits" class="boton boton-amarillo d-block">See</a>
+                </div>
+            </div>
+            <div class="anuncio">
+                <img src="~/img/integrales.png" alt="anuncio casa terminados de lujo">
+                <div class="contenido-anuncio">
+                    <h3>Integrals</h3>
+                    <a asp-action="Integrals" class="boton boton-amarillo d-block">See</a>
+                </div>
+            </div>
+            <div class="anuncio">
+                <img src="~/img/fisica.png" alt="anuncio casa con alberca">
+                <div class="contenido-anuncio">
+                    <h3>Physics</h3>
+                    <a asp-action="Phisics" class="boton boton-amarillo d-block">See</a>
+                </div>
+            </div>
+        </div>
+    </main>
+</div>
+<section class="imagen-contacto">
+    <div class="contenedor contenido-contacto">
+        <br>
+        <h2 id="cw" style="font-size: 25px">¿Got something to say to us?</h2>
+        <p id="cw">Complete the contact form and an advisor will contact you at shortness</p>
+        <a class="boton boton-amarillo" asp-controller="Home" asp-action="Contacts">Contact to us!</a>
+    </div>
+</section>
+<div class="seccion-inferior contenedor seccion">
+    <section class="blog">
+        <h3 class="centrar-texto fw-300">Books</h3>
+        <article class="entrada-blog">
+            <div class="imagen">
+                <div class="cortar">
+                    <img src="~/img/stewar.jpg" alt="entrada de blog">
+                </div>
+            </div>
+            <div class="texto-entrada">
+                <a href="https://intranetua.uantof.cl/estudiomat/calculo3/stewart.pdf" target="_blank">
+                    <h4>Calculation  of the one variabale</h4>
+                </a>
+                <p style="font-size: 20px">Writed in the : <span>2012</span> by: <span>James Stewart</span></p>
+                <div class="cortar">
+                    <p style="font-size: 20px">"The art of teach, said Mark Van Doren, is the art of help to discover. "
+                    </p>
+                </div>
+            </div>
+        </article>
+        <article class="entrada-blog">
+            <div class="imagen">
+                <div class="cortar">
+                    <img src="~/img/serwey.jpg" alt="entrada de blog">
+                </div>
+            </div>
+            <div class="texto-entrada">
+                <a href="http://www.fisica.unlp.edu.ar/materias/fisICIver/FpCeIS7EdV1.pdf" target="_blank">
+
+                    <h4>Physics of Serway for science e engineering.</h4>
+                </a>
+                <p style="font-size: 20px">Writed in the: <span>2008</span> by: <span>Raymond A.Serway.
+                        John W.Jr.</span></p>
+                <div class="cortar">
+                    <p style="font-size: 20px">"We dedicate this book at our  wifes
+                        Elizabeth and Lisa, and all our sons and grandsons by his comprehension 
+                        amorous when pass our time writing in place of stand with they."</p>
+                </div>
+            </div>
+        </article>
+    </section>
+    <section class="testimoniales">
+        <h3>Advice</h3>
+        <div class="imagenContacto">
+            <img src="~/img/sueñasinmiedo.jpeg" alt="sueña">
+        </div>
+    </section>
+</div>

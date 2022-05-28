@@ -1,0 +1,194 @@
+﻿@{
+    ViewData["Title"] = "Integrals";
+    Layout = "_Layout2";
+}
+
+<aside class="sidebar">
+    <section class="otras-entradas">
+        <h2>Index</h2>
+        <nav class="indice">
+            <a name="Indice">
+                <ul>
+                    <li><a href="#FormNumeri">Riemman sums</a></li>
+                    <li><a href="#CalcuLimFun">Area problem</a></li>
+                    <li><a href="#factorizacion">C++</a></li>
+                    <li><a href="#infinito">Calculator</a></li>
+                    <li><a href="#multivariado">3D Graphics</a></li>
+                </ul>            
+            </a>
+        </nav>
+    </section>
+</aside>
+<section class="contenedor">
+
+    <h3>DEFINITIONS AND NOTATION</h3>
+    <div class="texto-entrada">
+        <h1>What is one ED?</h1>
+    </div>
+    <p class="fw-mio2">
+        Is the that permit me find the velocity on a exact point or too we can say, the derivative is the that permit me find the line tangent a  given function.
+    </p>    
+    <p class="fw-mio2">
+        y = y(x) and its derivatives y, y 0, y 00, ..., y n) is called a differential equation.
+    </p>
+    <p class="fw-mio2"> \[ F(x, y, y'*y'', ..., y^n)=0 \] </p>
+    <p class="fw-mio2">
+        \[ F(x, y, \frac{dy}{dx'}, \frac{d^2y}{dx^2}, ... , \frac{d^ny}{dx^n})=0 \]
+    </p>
+    <p class="fw-mio2">              
+        \[ y^n=f(x,y,y`.y``,…,y^n-1) \]
+    </p>
+    <p class="fw-mio2">
+        Examples of Differential Equations:
+    </p>
+    <p class="fw-mio2">
+        \[ \frac{dy}{dx}-4xy = 3 \]
+    </p>
+    <p class="fw-mio2">
+        \[ \frac{d^2y}{dx^2}+2 \frac{dy}{dx}-5y+2 = 0\]
+    </p>   
+    <p class="fw-mio2">
+        \[ \frac{dy}{dx}-7 \frac{dy}{dx} = 3\]
+    </p>   
+    <p class="fw-mio2">
+        Video Example:
+    </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rd2jKGQJucE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <article class="entrada">
+    </article>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+    
+    <main class="contenedor1">
+        <div class="contenedor-anuncios1">
+            <p class="fw-mio2">
+                • CLASSIFICATION:Differential equations are classified according to their type, order, and linearity and degree:
+            </p>
+            <p class="fw-mio2">
+                <b>1)</b> Type:
+                </br>
+                ㅤㅤㅤ<b>a)</b> Ordinary differential equations: these equations contain only ordinary derivatives with respect to a single independent variable.
+                <br/>
+                ㅤㅤㅤ<b>b)</b> Equations in partial derivatives: they contain partial derivatives with respect to two or more independent variables.
+            </p>
+
+            <p class="fw-mio2">
+                <b>2)</b> Order: Upper derivative involved in the equation.
+            </p>                         
+            
+            <p class="fw-mio2">
+                <b>3)</b> Linearity:
+                </br>
+                ㅤㅤㅤ<b>a)</b> The dependent variable and its derivatives are of 1st degree.
+                <br/>
+                ㅤㅤㅤ<b>b)</b> The coefficients only depend on the independent variable.
+            </p>
+            
+            <p class="fw-mio2">
+                <b>4)</b> Degree: It is the exponent of the highest derivative.                
+            <div class="texto-entrada">
+                <h2></h2>
+            </div>
+            </p>
+        </div>
+    </main>
+
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Classification example:</h1>
+        </div>
+        <img src="~/img/clasificatioexample.png" alt="reglas de ed">
+        <p class="fw-mio2">
+            SOLUTIONS OF D.E.: The solution (or integral) of the differential equation is any function y = y(x) that, introduced in the differential equation, transforms it into equality.
+        </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/giuEYJhb5gU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Examples</h1>
+        </div>
+        <p class="fw-mio2">
+            SOLUTIONS OF D.E.: The solution (or integral) of the differential equation is any function y = y(x) that, introduced in the differential equation, transforms it into equality.
+        </p>
+        <p class="fw-mio2">
+            <b>1)</b> Types of solutions:
+            <br/>
+            ㅤㅤㅤ<b>a)</b> Explicit: The dependent variable y is expressed only in terms of the independent variable x and constants.
+            <br/>
+            ㅤㅤㅤ<b>b)</b> Implicit: This is a relation G (x, y) = 0 in which y cannot be solved using elementary functions. All y(x) satisfying G(x, y) = 0 are solutions.
+        </p>         
+        
+        <p class="fw-mio2">
+            The n-parametric family G (x, y, C1, C2, · · ·, Cn) = 0 is the general solution of a differential equation of order n if every solution of that equation can be obtained from that family.
+        </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WAYBZTQoVkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Example 1</h1>
+        </div>
+        <p class="fw-mio2">
+            Verify that the function [f(x)= y 1/x] is the solution of the differential equation [xy' +y =0]
+            <br/>
+            ㅤㅤㅤ<b>1)</b> We substitute y, y' into the differential equation to see that it satisfies the relationship.
+            <br/>
+                \[ y' = \frac{-1}{x^2} \]
+                \[ y = \frac{1}{x} \]
+            <br/>
+            ㅤㅤㅤ<b>2)</b> Already having y, y' we substitute in the differential equation
+            <br/>
+                \[ xy'+y = x (\frac{-1}{x^2})+ \frac{1}{x} \]
+                \[ = -\frac{1}{x}+\frac{1}{x}  \]
+                \[ = 0  \]
+        </p>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Example 2</h1>
+        </div>
+        <p class="fw-mio2">
+
+            Check the function [f(x)= y = ¼-x^2] is a solution to the differential equation [dy / dx = 2xy^2] and determine at least one interval of solution.            <br/>
+                <b>1)</b> We derive the function:
+            <br/>
+                \[ y = \frac{1}{4} - x^2  \]
+                \[ \frac{dy}{dx} = \frac{2x}{(4-x^2)^2}  \]
+            <br/>
+            ㅤㅤ<b>2)</b> Rewrite the equation and simplify.
+            <br/>
+                \[ \frac{dy}{dx} = \frac{2x}{(4-x^2)^2}  \]
+                \[ = 2x \frac{1}{(4-x^2)^2}\]
+                \[ = 2x (\frac{1}{4-x^2})^2\]
+                \[ = 2xy^2 \]
+        </p>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+
+    <article class="entrada">
+
+        <p class="fw-mio2">
+
+            Take from:
+            <br/>
+            <a href="https://blog.nekomath.com/ecuaciones-diferenciales-i-soluciones-a-las-ecuaciones-diferenciales/">Here</a>
+             <a href="https://www.ecuacionesdiferenciales.jcbmat.com/id226.htm">And Here</a>
+
+        </p>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+</section>

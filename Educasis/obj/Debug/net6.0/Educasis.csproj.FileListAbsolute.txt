@@ -1,0 +1,259 @@
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\appsettings.json
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Educasis.staticwebassets.runtime.json
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Educasis.exe
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Educasis.deps.json
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Educasis.runtimeconfig.json
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Educasis.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Educasis.pdb
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cache
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cs
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\scopedcss\bundle\Educasis.styles.css
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\scopedcss\projectbundle\Educasis.bundle.scp.css
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CopyComplete
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\refint\Educasis.dll
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.pdb
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\Educasis.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Educasis\Educasis\obj\Debug\net6.0\ref\Educasis.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\appsettings.Development.json
+E:\Educasis\Educasis\bin\Debug\net6.0\appsettings.json
+E:\Educasis\Educasis\bin\Debug\net6.0\Educasis.staticwebassets.runtime.json
+E:\Educasis\Educasis\bin\Debug\net6.0\Educasis.exe
+E:\Educasis\Educasis\bin\Debug\net6.0\Educasis.deps.json
+E:\Educasis\Educasis\bin\Debug\net6.0\Educasis.runtimeconfig.json
+E:\Educasis\Educasis\bin\Debug\net6.0\Educasis.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Educasis.pdb
+E:\Educasis\Educasis\bin\Debug\net6.0\Humanizer.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.AssemblyReference.cache
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfoInputs.cache
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfo.cs
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CoreCompileInputs.cache
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.MvcApplicationPartsAssemblyInfo.cache
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cache
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cs
+E:\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.build.json
+E:\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.development.json
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Index.cshtml.rz.scp.css
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout3.cshtml.rz.scp.css
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout4.cshtml.rz.scp.css
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\bundle\Educasis.styles.css
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\projectbundle\Educasis.bundle.scp.css
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CopyComplete
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.dll
+E:\Educasis\Educasis\obj\Debug\net6.0\refint\Educasis.dll
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.pdb
+E:\Educasis\Educasis\obj\Debug\net6.0\Educasis.genruntimeconfig.cache
+E:\Educasis\Educasis\obj\Debug\net6.0\ref\Educasis.dll
+E:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout5.cshtml.rz.scp.css
+F:\Educasis\Educasis\bin\Debug\net6.0\appsettings.Development.json
+F:\Educasis\Educasis\bin\Debug\net6.0\appsettings.json
+F:\Educasis\Educasis\bin\Debug\net6.0\Educasis.staticwebassets.runtime.json
+F:\Educasis\Educasis\bin\Debug\net6.0\Educasis.exe
+F:\Educasis\Educasis\bin\Debug\net6.0\Educasis.deps.json
+F:\Educasis\Educasis\bin\Debug\net6.0\Educasis.runtimeconfig.json
+F:\Educasis\Educasis\bin\Debug\net6.0\Educasis.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Educasis.pdb
+F:\Educasis\Educasis\bin\Debug\net6.0\Humanizer.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.AssemblyReference.cache
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfoInputs.cache
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfo.cs
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CoreCompileInputs.cache
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.MvcApplicationPartsAssemblyInfo.cache
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cache
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cs
+F:\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.build.json
+F:\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.development.json
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Index.cshtml.rz.scp.css
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout3.cshtml.rz.scp.css
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout4.cshtml.rz.scp.css
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout5.cshtml.rz.scp.css
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\bundle\Educasis.styles.css
+F:\Educasis\Educasis\obj\Debug\net6.0\scopedcss\projectbundle\Educasis.bundle.scp.css
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CopyComplete
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.dll
+F:\Educasis\Educasis\obj\Debug\net6.0\refint\Educasis.dll
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.pdb
+F:\Educasis\Educasis\obj\Debug\net6.0\Educasis.genruntimeconfig.cache
+F:\Educasis\Educasis\obj\Debug\net6.0\ref\Educasis.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\appsettings.Development.json
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\appsettings.json
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Educasis.staticwebassets.runtime.json
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Educasis.exe
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Educasis.deps.json
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Educasis.runtimeconfig.json
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Educasis.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Educasis.pdb
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Humanizer.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.AssemblyReference.cache
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfoInputs.cache
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.AssemblyInfo.cs
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CoreCompileInputs.cache
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cache
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.RazorAssemblyInfo.cs
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Index.cshtml.rz.scp.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout3.cshtml.rz.scp.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout4.cshtml.rz.scp.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout5.cshtml.rz.scp.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\bundle\Educasis.styles.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\scopedcss\projectbundle\Educasis.bundle.scp.css
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.csproj.CopyComplete
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\refint\Educasis.dll
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.pdb
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\Educasis.genruntimeconfig.cache
+E:\Programacion memoria\Version 5\Educasis\Educasis\obj\Debug\net6.0\ref\Educasis.dll

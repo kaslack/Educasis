@@ -1,0 +1,34 @@
+﻿@model Educasis.Models.Vote;
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "_Layout";
+}
+
+<h1>Vote</h1>
+
+<h4>Give your opinion about our page rating from 1 to 10</h4>
+<hr/>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Vote">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Appreciation" class="control-label"></label>
+                <input asp-for="Appreciation" class="form-control" type="number" min="1" max="10"/>              
+                <span asp-validation-for="Appreciation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Vote" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to Index</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

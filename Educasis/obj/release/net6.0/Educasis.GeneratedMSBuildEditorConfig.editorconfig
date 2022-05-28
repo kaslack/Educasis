@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Educasis
+build_property.RootNamespace = Educasis
+build_property.ProjectDir = E:\Educasis\Educasis\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Educasis\Educasis
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Educasis/Educasis/Views/Home/CalculadoraIntegrales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxjdWxhZG9yYUludGVncmFsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/ED.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Electronic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbGVjdHJvbmljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Integrals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnRlZ3JhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Limits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaW1pdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/LimitsPractice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaW1pdHNQcmFjdGljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Phisics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQaGlzaWNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Reto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Reto1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXRvMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Reto2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXRvMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Reto3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXRvMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Reto4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXRvNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Home/Vote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWb3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Educasis/Educasis/Views/Shared/_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-2worbm2eli
+
+[E:/Educasis/Educasis/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nwhptdx393
+
+[E:/Educasis/Educasis/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-nm687983n0
+
+[E:/Educasis/Educasis/Views/Shared/_Layout3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-mrqhhk76r1
+
+[E:/Educasis/Educasis/Views/Shared/_Layout4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-hg9ifjupt4
+
+[E:/Educasis/Educasis/Views/Shared/_Layout5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-t9mz9hhrwb

@@ -1,0 +1,200 @@
+﻿@{
+    ViewData["Title"] = "Electronic";
+    Layout = "_Layout2";
+}
+
+<aside class="sidebar">
+    <section class="otras-entradas">
+        <h2>Indice</h2>
+        <nav class="indice">
+            <a name="Index">
+                <ul>
+                    <li><a href="#factorizacion">Moore's Machines.</a></li>
+                    <li><a href="#CalcuLimFun">Machines of G.Mealy.</a></li>
+                    <li><a href="#CasoImpor">Commutable Switch.</a></li>
+                    <li><a href="#FormNumeri">Traffic Light.</a></li>
+                    <li><a href="#descargar">I challenge you.</a></li>
+                </ul>
+        </nav>
+        </a>
+        </div>
+    </section>
+</aside>
+<article class="entrada">
+    <div class="texto-entrada">
+        <h1>Previous Concepts</h1>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </div>
+    <p class="fw-mio2">
+        The algebra of <a href="https://www.biografiasyvidas.com/biografia/b/boole.htm" target="_blank">Boole</a> is the mathematics of the digital systems that have rules, laws and norm. The algebra of Boole study the algebraic techniques for treat expressions of the proportionate logic whit the end to solve more fast problems of electric desing
+        (operations between 0s and 1s ).
+        for solve this problems are use the implementation of logic sluicegates that in the digital electronic are of the next form.
+    </p>
+    <img src="~/img/compuertas.png" alt="compuertas logicas" title="http://laboratoriodehard.blogspot.com/2017/05/clase-9.html">
+    <p class="fw-mio2">For implementation circuited we have axioms, theorems and the logics sluicegates that fulfill whit the next operations.</p>
+    <img src="~/img/axiomas.jpg" alt="axiomas" title="https://www.ecured.cu/Compuertas_L%C3%B3gicas">
+    <p>Axioms/Theorems</p>
+    <img src="~/img/teoremas.jpg" alt="teoremas" title="https://www.cienciasfera.com/materiales/tecnologia/tecno02/tema10/3_lgebra_de_boole_postulados_y_teoremas.html">
+    <p class="fw-mio2">One of the simulators more used for the solution of electric problems is.
+        For go to download link of this simulator click <a href="https://sourceforge.net/projects/circuit/files/latest/download" target="_blank"><span class="color-azul">here</span></a>
+    </p>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+</article>
+<article class="entrada">
+    <h1>Finite state Machines</h1>
+    <p class="fw-mio2">
+        Are graphical representation and functionals of phenomena that involve depend process to others at along time.
+    </p>
+    <ul>
+        <li>Are directed graphics.</li>
+        <li>Describe the state of one system on a certain moment of the time.</li>
+        <li>Confrontate the entries and outs of one system or one process.</li>
+        <li>The entries act like stimuluses for generate one change of state.</li>
+    </ul>
+    <p class="fw-mio2">The diagrams of state machine can be described agree in as is relationed the states and the enters and outs.</p>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+</article>
+<a name="factorizacion">
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>
+                Moore`s Machines
+            </h1>
+        </div>
+        <h3>The node contain the state and the value of the outs.</h3>
+        <div class="center1">
+            <img src="~/img/moore.png" alt="maquina moore">
+        </div>
+        <div class="texto-entrada">
+    </article>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+</a>
+<a name="CalcuLimFun">
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>
+                Machines of G.Mealy
+            </h1>
+        </div>
+        <h3>The node contain the state and the arcs describe the relation enter / out .</h3>
+        <img src="~/img/mealy.png" alt="maquina mealy">
+    </article>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+</a>
+<section class="contenedor">
+    <a name="CasoImpor">
+        <article class="entrada">
+            <div class="texto-entrada">
+                <h1>Example 1 (Moore`s Machine)</h1>
+                <p class="fw-mio2">Make the Control by commutation switch of the light of the one staircase, are have 2 switches
+                    S0 and S1 (entrances), and one bulb B(outs). </p>
+                <h1>Diagram</h1>
+            </div>
+            <h3>1. Calculate the numbers of arcs</h3>
+            <p class="fw-mio2"> Numbers of arcs per node =
+                \[2^{numbers\hspace{0.3cm}of\hspace{0.3cm}entries}\]</p>
+            <p class="fw-mio2">For this example:
+                Number of arcs per node = \[2^2=4.\]
+            </p>
+            <img src="~/img/moore1.png" alt="maquina 1">
+            <h3>2. States table</h3>
+            <img src="~/img/tabla1.png" alt="tabla estados">
+            <h3>3.Table Estates / Out</h3>
+            <img src="~/img/tabla2.png" alt="tabla">
+            <h3>4. Table encoding of states </h3>
+            <h4>Calculate </h4>
+            <p class="fw-mio2">Number of bits, encoding of state = \[log_2\hspace{0.3cm}number\hspace{0.3cm}of\hspace{0.3cm}estates\]</p>
+            <img src="~/img/tabla3.png" alt="tabla">
+            <h3>5. Replace on the states table </h3>
+            <img src="~/img/tabla4.png" alt="tabla">
+            <h3>6. Replace on table 2</h3>
+            <img src="~/img/tabla5.png" alt="tabla">
+            <h3>7. Find the state equations (From the 5 table) </h3>
+            <p class="fw-mio2">D0 = Q0S1’ S0’ + Q0’S0 + Q0’S1</p>
+            <h3>8. Find the outs equations (From the 6 table)</h3>
+            <p class="fw-mio2">Q = B</p>
+            <div class="cortar">
+                <h1>Code of C++</h1>
+                <img src="~/img/maquina1.png" alt="img maquina">
+                <img src="~/img/maquina2.png" alt="img maquina">
+                <h1>Development on the Logisim simulator</h1>
+                <div class="center1">
+                    <img src="~/img/maquina3.png" alt="logisim">
+                </div>
+            </div>
+        </article>
+    </a>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+    </article>
+    <a name="FormNumeri">
+        <article class="entrada">
+            <div class="texto-entrada">
+                <h1>Example 2</h1>
+            </div>
+            <p class="fw-mio2">Make a traffic light.</p>
+            <p class="fw-mio2">Important: We not have entrances for this example, consider the time (conventional).
+                Outs: Red, Yello, Green
+            </p>
+            <div class="texto-entrada">
+                <h1>Diagram</h1>
+            </div>
+            <h3>1. Calculate arcs number</h3>
+            <p class="fw-mio2">Number of arcs per node = \[2^{number\hspace{0.3cm}of\hspace{0.3cm}entries}\] </p>
+            <p class="fw-mio2">For this example:
+                Arcs number per node = Arcs number per node = \[2^0=1.\]
+            </p>
+            <img src="~/img/moore2.png" alt="maquina 2">
+            <h3>2. States table </h3>
+            <img src="~/img/tabla6.png" alt="tabla estados">
+            <h3>3.States table / Out</h3>
+            <img src="~/img/tabla7.png" alt="tabla">
+            <h3>4. Table encoding of states </h3>
+            <h4>Calculate </h4>
+            <p class="fw-mio2">Number of bits, encoding of state = \[log_2\hspace{0.3cm}number\hspace{0.3cm}of\hspace{0.3cm}states\]</p>
+            <img src="~/img/tabla8.png" alt="tabla">
+            <h3>5. Replace on the states table </h3>
+            <img src="~/img/tabla9.png" alt="tabla">
+            <h3>6. Replace on table 2</h3>
+            <img src="~/img/tabla10.png" alt="tabla">
+            <h3>7. Find the state equations (From the 5 table) </h3>
+            <p class="fw-mio2">D1 = Q1’Q0 + Q1Q0’ = Q0 Q1
+                <br>
+                D0 = Q1’Q0’+Q1Q0’ = Q0’ [ Q1 + Q1] = Q0’
+            </p>
+            <h3>8.  Find the outs equations (From the 6 table)</h3>
+            <p class="fw-mio2">R = Q1’Q0’
+                <br>
+                A = Q1Q0 + Q1Q0 = Q0 [ Q1 + Q0] = Q0<br>
+                V= Q1Q0’
+            </p>
+            <div class="texto-entrada">
+                <h2></h2>
+            </div>
+            <div class="cortar">
+                <h1>Code of C++</h1>
+                <img src="~/img/maquina8.png" alt="maquina">
+                <img src="~/img/maquina9.png" alt="maquina">
+                <h1>Development on the Logisim simulator</h1>
+                <img src="~/img/semaforo.png" alt="logisim">
+            </div>
+        </article>
+        <a name="descargar"></a>
+        <div class="texto-entrada">
+            <a asp-controller="Home" asp-action="Reto">
+                <h1>Complete our challenge having click<span class="color-azul"> here</span></h1>
+            </a>
+        </div>
+    </a>
+</section>

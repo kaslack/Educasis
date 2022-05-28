@@ -1,0 +1,14 @@
+#ImgPrincipal{
+    width: 650px;
+    height: 487.5px;
+}
+#imgConcepto{
+    display: block;
+    margin: auto;
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+    border: none;
+    padding: 2.5%;
+}

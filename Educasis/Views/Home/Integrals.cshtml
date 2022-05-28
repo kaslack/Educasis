@@ -1,0 +1,474 @@
+﻿@{
+    ViewData["Title"] = "Integrals";
+    Layout = "_Layout2";
+}
+
+<aside class="sidebar">
+    <section class="otras-entradas">
+        <h2>Index</h2>
+        <nav class="indice">
+            <a name="Indice">
+                <ul>
+                    <li><a href="#FormNumeri">Riemman sums</a></li>
+                    <li><a href="#CalcuLimFun">Area problem</a></li>
+                    <li><a href="#factorizacion">C++</a></li>
+                    <li><a href="#infinito">Calculator</a></li>
+                    <li><a href="#multivariado">3D Graphics</a></li>
+                </ul>
+        </nav>
+        </a>
+        </div>
+    </section>
+</aside>
+<section class="contenedor">
+
+    <h3>Previous Concepts</h3>
+    <div class="texto-entrada">
+        <h1>What is one derivative?</h2>
+    </div>
+    <p class="fw-mio2">Is the that permit me find the velocity on a exact point or too we can say, the derivative is the that permit me find the line tangent a  given function.
+    </p>
+    <article class="entrada">
+    <iframe src="https://www.geogebra.org/classic/auhzcgzc?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+    </article>
+        <h1>Definition</h1>
+    <p class="fw-mio2"> \[ \lim_{h \to 0} \frac{f(x+h)-f(x)}{h}\] </p>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+    <h1>Example – Using the definition</h1>
+    <main class="contenedor1">
+        <div class="contenedor-anuncios1">
+            <p class="fw-mio2">
+                \[ f(x) = 3z+5\]
+            </p>
+            <p class="fw-mio2">
+                • Remplace
+            </p>
+            <p class="fw-mio2">
+                \[ (x+h)\]
+            </p>
+            <p class="fw-mio2">
+                on the function
+            </p>
+            <p class="fw-mio2">
+                \[ f(x + h) = 3(x + h)+5\]
+            </p>
+            <p class="fw-mio2">
+                • Using the definition
+            </p>
+            <p class="fw-mio2">
+                \[ \lim_{h \to 0} 3( x + h ) + 5 -(3x +5)\]
+            </p>
+            <p class="fw-mio2">
+                \[f'(x) = \lim_{h \to 0}3x + 3h + 5-3x - 5 \]
+            </p>
+            <p class="fw-mio2">
+                \[f'(x) = \lim_{h \to 0}3h \]
+            </p>
+            <p class="fw-mio2">
+                \[f'(x) =3\]
+            </p>
+            </p>
+            <div class="texto-entrada">
+                <h2></h2>
+            </div>
+            </p>
+        </div>
+    </main>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Derivation rules</h1>
+        </div>
+        <img src="~/img/reglas.jpg" alt="reglas de Derivación">
+        <img src="~/img/reglas1.jpg" alt="reglas de Derivación">
+        <img src="~/img/reglas2.jpg" alt="reglas de Derivación">
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Examples</h1>
+        </div>
+        <p class="fw-mio2">
+
+        Derivative of one constant<br>
+            \[f(x) =5\]
+            \[f'(x) =0\]<br>
+
+            Derivative of one sum or difference<br>
+            \[f(x) = 5x^4-2x^3+\frac{1}{2}x^2 + 3\]
+            \[f'(x) = 20x^3-6x^2+ x\]
+
+            Derivative of one potence<br>
+            \[f(x) = x^3\]
+            \[f'(x) = 3x^{3-1}\]
+            \[f'(x) = 3x^{2}\]
+
+            Derivative of one product<br>
+            \[f(x) = (3x^4) (2x^5)\]
+            \[f'(x) = (3x^4)(10x^4) + (2x^5)(12x^3)\]
+            \[f'(x) = 30x^8 + 24x^8\]
+            \[f ’(x) = 54x^8\]
+        </p>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Areas</h1>
+        </div>
+        <p class="fw-mio2">
+        The area is a metric concept that can permit assign one measurement a the extension of one surface. 
+            <br>How calculate area of figures?
+        </p>
+        <img src="~/img/areas.png">
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <a name="FormNumeri">
+        <article class="entrada">
+            <div class="texto-entrada">
+                <h1>Riemman sums</h1>
+            </div>
+            <p class="fw-mio2">Is a method for approxi of total area low the graphic of one curve, at divide it on various simples forms (how rectangles or trapeziums). This sums take his name of the mathematical aleman
+                Bernhard Riemann.
+            </p>
+            <div class="texto-entrada">
+                <h2></h2>
+            </div>
+        </article>
+    </a>
+    <a name="CalcuLimFun">
+        <article class="entrada">
+            <div class="texto-entrada">
+                <h1>Area problem</h1>
+            </div>
+            <p class="fw-mio2">
+            For calculate the area of the region S that be low of the curve y=f(x), are should understand that S is aone region that be limited by the grafic of one continue function f, the verticals lines x=a, x=b and the x axle.
+            </p>
+            <iframe src="https://www.geogebra.org/classic/javrku5z?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+            <div class="borrar">
+                <p class="color-azul1" class="fw-mio2">
+                For calculated the area. (on Geogebra)
+                </p>
+                <main class=" seccion contenedor">
+                    
+<iframe src="https://www.geogebra.org/classic/qbzvyxwq?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+                </main>
+            </div>
+        </article>
+    </a>
+    <div class="texto-entrada">
+        <h2></h2>
+    </div>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Example 1 </h1>
+        </div>
+        <p class="fw-mio2">
+        Estimate the area of the region that be below of the function, from x=0 until x=2, whit n=variable.
+        </p>
+        <iframe src="https://www.geogebra.org/classic/ehbybzyt?embed" width="1200" height="600"allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+            
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+        <div class="texto-entrada">
+            <h1>Steps</h1>
+        </div>
+        <li>Calculate the width △x of each rectangle. <br>\[\Delta x = b - \frac{a}{n}\]
+        </li>
+        <li>Write the n subintervals.</li>
+        <li>Estimate the areas of each rectangle, is say, make the sums of the areas of the rectangles,
+        having on count the extreme points of the left or right of the each subintervals.</li>
+        <p class="fw-mio2">The extreme points of the right of the subintervals are:</p>
+        <li>\[X_{1} = a + \Delta x\]</li>
+        <li> \[X_{2} = a + 2\Delta x\]</li>
+        <li>\[X_{3} = a + 3\Delta x\]</li>
+        <img src="~/img/suma3.png" alt="Ejemplo1.2">
+        <p class="fw-mio2">The area of the region S that are find below graphic of the function continuous f is:
+            \[\lim_{n \to \infty}D_{a} = \lim_{n \to \infty}\left [ f(x_{1})\Delta x + f(x_{2}) + f(x_{3})\Delta x +....+ f(x_{n})\Delta x\right ]\]</p>
+
+        <p class="fw-mio2">or making same with the extremes left it obtain:</p>
+        <img src="~/img/suma4.png" alt="ejemplo1.3">
+
+        <p class="fw-mio2">
+            \[\lim_{n \to \infty}I_{n} = \lim_{n \to \infty}\left [ f(x_{1})\Delta x + f(x_{2}) + f(x_{3})\Delta x +....+ f(x_{n})\Delta x\right ]\]
+            In fact, in place of used the extremes right or left of the subintervals, are can it take the height the i-esimo rectangle with the value of f in any num x*i on the subinterval i-esimo. This nums are called sample points, and so:
+            \[A = \lim_{n \to \infty}\left [ f(x^*_{1})\Delta x + f(x^*_{2}) + f(x^*_{3})\Delta x +....+ f(x^*_{n})\Delta x\right ]\]
+            \[A = \lim_{n \to \infty}\sum_{i=1}^{n}f(x^*_i)\Delta x)\]
+
+
+        </p>
+
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Example 2</h1>
+        </div>
+        <p class="fw-mio2">
+        Be A the area of the region that be below of the grafic f(x) = 2x – 1 between x = 1 and x = 3.
+            <br>
+            a.Estimate the area when taking the sample points how the middle points and whit 4 subintervals.
+                
+            <iframe src="https://www.geogebra.org/classic/u7vn2xqn?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+            \[\Delta x = \frac{3-1}{4} = \frac{1}{2}\]
+            subintervals
+            \[\left [ {\color{Red} 1} , \frac{ {\color{Blue}3}}{{\color{Blue}2}} \right]\left [\frac{ {\color{Red}3}}{{\color{Red} 2}} , {\color{Blue}2}\right ]\left [ {\color{Red} 2} , \frac{{\color{Blue}5}}{{\color{Blue}2}} \right ] \left [ \frac{ {\color{Red}5}}{ {\color{Red}2}} , {\color{Blue}3}\right ]\]
+            \[{\color{Red} En\hspace{0.2cm}color\hspace{0.2cm}rojo\hspace{0.2cm}los\hspace{0.2cm}subintervals\hspace{0.2cm} izquierdos } \]
+            \[{\color{Blue} En\hspace{0.2cm}color\hspace{0.2cm}azul\hspace{0.2cm}los\hspace{0.2cm}subintervals\hspace{0.2cm} derechos } \]
+            Solution:
+            \[{\color{Red} I_4} = \frac{1}{2}\left [ 2\cdot 1 -1 \right ] + \frac{1}{2}\left [ 2\cdot \frac{3}{2} -1 \right ] + \frac{1}{2}\left [ 2\cdot 2 -1 \right ] + \frac{1}{2}\left [ 2\cdot \frac{5}{2} -1 \right ] = 5\]
+            \[{\color{Blue}D_4} = \frac{1}{2}\left [ 2\cdot \frac{3}{2} -1 \right ] + \frac{1}{2}\left [ 2\cdot 2 -1 \right ] + \frac{1}{2}\left [ 2\cdot \frac{5}{2} -1 \right ] + \frac{1}{2}\left [ 2\cdot 3 -1 \right ] = 7\]
+
+        <p class="fw-mio2">b.With the extreme points right find an expression for A using limits.</p>
+        <p class="fw-mio2">
+            \[\Delta x = \frac{3-1}{n} = \frac{2}{n}\]
+            The right extrems are:
+            \[x_{1} = 1 + \frac{2}{n}\]
+            \[x_{2} = 1 + \frac{4}{n}\]
+            \[x_{3} = 1 + \frac{6}{n}\]
+            \[\Delta x = \frac{2}{n}\]
+            \[x_{i} = 1 + \frac{2i}{n}\]
+            \[A = \lim_{n \to \infty}\sum_{i=1}^{n}f(1+\frac{2i}{n})\cdot\frac{2}{n}\]
+            \[A = \lim_{n \to \infty}\sum_{i=1}^{n}f(1+\frac{4i}{n})\cdot\frac{2}{n}\]
+        </p>
+
+        </p>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Guide Video</h1>
+        </div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/W1IPtvVWCr8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>Example 3</h1>
+        </div>
+        <p class="fw-mio2">
+            Calculate the integral with Riemann sum.
+            \[\int_{0}^{4} x^2-2x dx = \frac{16}{3}\]
+        </p>
+        <p class="fw-mio2">Following the steps
+            \[\Delta x = \frac{4-0}{n}\]
+            \[x_{i} = 0 + i \cdot \frac{4}{n}\]
+            \[x_{i} = \frac{4}{n}\]
+            \[f(x_i) = (\frac{4i}{n})^2 - 2 \frac{4i}{n} \]
+            \[= \frac{16i}{n} - \frac{8i}{n}\]
+            \[ = \lim_{n \to \infty}\sum_{i=n}^{n}(\frac{16i^2}{n^2} - \frac{8i}{n}) \cdot \frac{4}{n}\]
+            \[ = \lim_{n \to \infty}\frac{4}{n}\sum(\frac{16i^2}{n^2} - \frac{8i}{n})\]
+            \[ = \lim_{n \to \infty}\frac{4}{n} \left [ \frac{16}{n^2} \sum(i^2) - \frac{8}{n} \sum(i) \right ] \]
+            \[ = \lim_{n \to \infty}\frac{4}{n} \left [ \frac{16}{n^2} \cdot \frac{n(n+1)(2n+1)}{6}
+            - \frac{8}{n} \cdot \frac{n(n+1)}{2} \right ] \]
+            \[ = \lim_{n \to \infty}\frac{4}{n}\left ( \frac{8}{3n} (2n^2+n+2n+1) -(4n+4)\right ) \]
+            \[ = \lim_{n \to \infty}\frac{4}{n}\left ( \frac{16n}{3} + 8 +  \frac{8}{3n} - 4n - 4\right ) \]
+            \[ = \lim_{n \to \infty}\frac{4}{n}\left ( \frac{4}{3n} + \frac{8}{3n} + 4\right ) \]
+            \[ = \lim_{n \to \infty}\frac{4}{n}\left ( \frac{16}{3} +  \frac{32}{3n^2} +  \frac{16}{n}\right ) \]
+            \[ = \lim_{n \to \infty}\frac{16}{3}  +  \lim_{n \to \infty}\frac{32}{3n^2} +  \lim_{n \to \infty}\frac{16}{n}  \]
+            \[= \frac{16}{3}\]
+        </p>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+    <article class="entrada">
+        <div class="texto-entrada">
+            <h1>>Guide Video #2.</h1>
+        </div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSjzuFpBoCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="texto-entrada">
+            <h2></h2>
+        </div>
+    </article>
+
+    <a name="factorizacion">
+        <article class="entrada">
+            <div class="texto-entrada">
+                <h1>Calculator on C++</h1>
+            </div>
+            <section class="contenedor">
+                <p class="tamaño">
+                    <span class="color-verde tamaño">#include &#60cstdlib><br>
+                        #include &#60conio.h><br>
+                        #include &#60conio.c><br>
+                        #include &#60stdio.h><br>
+                        #include &#60iostream><br>
+                        #include &#60math.h><br>
+                    </span>
+                    using namespace std<span class="color-rojo">;</span><br>
+
+                    int main<span class="color-rojo">(){</span><br>
+                    int i<span class="color-rojo">,</span>n<span class="color-rojo">,</span>opcion<span class="color-rojo">,</span>acomp<span class="color-rojo">,</span>menos<span class="color-rojo">;</span><br>
+                    float b<span class="color-rojo">,</span>a<span class="color-rojo">,</span>D<span class="color-rojo">,</span>acum<span class="color-rojo">,</span>x<span class="color-rojo">,</span>f<span class="color-rojo">,</span>exp<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Integrales definidas por Sumas de Riemman<span class="color-rojo">"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la forma y<span class="color-rojo">=</span> x <span class="color-morado">.............=></span> opcion<span class="color-rojo">(</span>1<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la froma y<span class="color-rojo">=</span> x^n <span class="color-morado">........=></span>opcion<span class="color-rojo">(</span>2<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la forma ax^n + bx + c <span class="color-morado">.....=></span> opcion<span class="color-rojo">(</span>3<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la forma x^1/2 (radicales) <span class="color-morado">..=></span> opcion<span class="color-rojo">(</span>4<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Salir <span class="color-morado ">
+                        <div class="cortar">..................</div>...............=>
+                    </span> opcion<span class="color-rojo">(</span>5<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">&#60&#60"</span>opcion<span class="color-rojo">;</span><br>
+
+                    while<span class="color-rojo">(</span>opcion <span class="color-rojo">!=</span> 5<span class="color-rojo">){</span><br>
+                    switch<span class="color-rojo">(</span>opcion<span class="color-rojo">){</span><br>
+                    case 2<span class="color-rojo">:{</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Escriba el exponente para x^n<span class="color-rojo">"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>exp<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite superior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>b<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite inferior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>a<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese numero de subintervalos a usar"<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>n<span class="color-rojo">;</span><br>
+                    clrscr<span class="color-rojo">();</span><br>
+                    i<span class="color-rojo">=</span>0<span class="color-rojo">;</span><br>
+                    acum<span class="color-rojo">=</span>0<span class="color-rojo">;</span><br>
+                    if<span class="color-rojo">(</span>exp<span class="color-rojo">&#60=</span> 2<span class="color-rojo">){</span><br>
+                    D<span class="color-rojo">=</span>(b-a)/n<span class="color-rojo">;</span> <span class="color-azul">//Se calcula delta de x</span><br>
+                    while<span class="color-rojo">(</span>i<span class="color-rojo">&#60=</span>n<span class="color-rojo">){</span><br>
+                    x<span class="color-rojo">=</span>D*(i+a)<span class="color-rojo">;</span><br>
+                    f<span class="color-rojo">=</span>pow(x<span class="color-rojo">,</span>exp)<span class="color-rojo">;</span><br>
+                    acum<span class="color-rojo">=</span>acum+(f)<span class="color-rojo">;</span> <br>
+                    i++<span class="color-rojo">;</span><br>
+                    <span class="color-rojo">}</span><br>
+                    acum <span class="color-rojo">=</span> acum*D<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60</span>endl<span class="color-rojo">&#60&#60"</span>El
+                    resultado aproximado es <span class="color-rojo">"&#60&#60</span>acum<span class="color-rojo">;</span><br>
+                    else<span class="color-rojo">{</span><br>
+                    acum<span class="color-rojo">=</span>1/(exp+1)*pow(b<span class="color-rojo">,</span>(exp+1))-1/(exp+1)*pow(a<span class="color-rojo">,</span>(exp+1))<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60</span>endl<span class="color-rojo">&#60&#60"</span>El
+                    resultado aproximado es <span class="color-rojo">"&#60&#60</span>acum<span class="color-rojo">;</span> <br>
+
+                    <span class="color-rojo">}</span><br>
+                    break<span class="color-rojo">;</span><br>
+                    <span class="color-rojo">}</span><br>
+                    case 1<span class="color-rojo">:{</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Para ecuaciones con la forma x^1 escriba la x <span class="color-rojo">"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>acomp;<br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite superior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>b<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite inferior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>a<span class="color-rojo">;</span><br>
+                    clrscr()<span class="color-rojo">;</span><br>
+                    f<span class="color-rojo">=</span>acomp<span class="color-rojo">*</span>b<span class="color-rojo">-</span>acomp<span class="color-rojo">*</span>a<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60</span>endl<span class="color-rojo">&#60&#60"</span>El
+                    resultado aproximado es <span class="color-rojo">"&#60&#60</span>f<span class="color-rojo">;</span>
+                    <br>
+                    break<span class="color-rojo">;</span><br>
+                    <span class="color-rojo">}</span><br>
+                    case 3<span class="color-rojo">:{</span><br>
+                    int x<span class="color-rojo">,</span>y<span class="color-rojo">,</span>z<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Para ecuaciones con la forma ax^n+bx+c escriba
+                    a<span class="color-rojo">"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>x<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Para ecuaciones con la forma ax^n+bx+c escriba
+                    n<span class="color-rojo">"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>exp<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Para ecuaciones con la forma ax^n+bx+c escriba
+                    b<span class="color-rojo">"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>y<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Para ecuaciones con la forma ax^n+bx+c escriba
+                    c<span class="color-rojo">"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>z<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite superior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>b<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite inferior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>a<span class="color-rojo">;</span><br>
+                    clrscr()<span class="color-rojo">;</span><br>
+                    f<span class="color-rojo">=</span>((x*(pow(b<span class="color-rojo">,</span>(exp+1))/(exp+1)))+(y*(pow(b<span class="color-rojo">,</span>2))/2)+(z*b))-((x*(pow(a<span class="color-rojo">,</span>(exp+1))/(exp+1)))+(y*(pow(a<span class="color-rojo">,</span>2))/2)+(z*a))<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Resultado aproximado <span class="color-rojo">"&#60&#60</span>f<span class="color-rojo">&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    break<span class="color-rojo">;</span><br>
+                    <span class="color-rojo">}</span><br>
+                    case 4:{<br>
+                    double x<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Para ecuaciones con la forma x^1/2 (radical)
+                    escriba el exponente en forma
+                    decimal"&#60&#60endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>x<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite superior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>b<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Ingrese el limite inferior: "<span class="color-rojo">;</span> cin<span class="color-rojo">>></span>a<span class="color-rojo">;</span><br>
+                    clrscr()<span class="color-rojo">;</span><br>
+                    f<span class="color-rojo">=</span>pow(b<span class="color-rojo">,</span>(x+1))/(x+1)-pow(a<span class="color-rojo">,</span>(x+1))/(x+1)<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Resultado aproximado <span class="color-rojo">"&#60&#60</span>f<span class="color-rojo">&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    break<span class="color-rojo">;</span><br>
+                    <span class="color-rojo">}</span><br>
+                    <span class="color-rojo">}</span><br>
+                    cout<span class="color-rojo">&#60&#60</span>endl<span class="color-rojo">&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Integrales definidas por Sumas de
+                    Riemman"&#60&#60endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la forma y=x <span class="color-morado">..............=></span> opcion<span class="color-rojo">(</span>1<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la froma y=x^n <span class="color-morado">.............=></span> opcion<span class="color-rojo">(</span>2<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la forma ax^n + bx + c <span class="color-morado">.....=></span> opcion<span class="color-rojo">(</span>3<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Funcion de la forma x^1/2 (radicales) <span class="color-morado">..=></span> opcion<span class="color-rojo">(</span>4<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cout<span class="color-rojo">&#60&#60"</span>Salir <span class="color-morado">
+                        <div class="cortar">..................</div>...............=>
+                    </span> opcion<span class="color-rojo">(</span>5<span class="color-rojo">)"&#60&#60</span>endl<span class="color-rojo">;</span><br>
+                    cin<span class="color-rojo">>></span>opcion<span class="color-rojo">;</span><br>
+                    clrscr<span class="color-rojo">()</span><span class="color-rojo">;</span><br>
+                    <span class="color-rojo">}</span><br>
+                    <span class="color-rojo">}</span><br>
+                </p>
+                <div class="texto-entrada">
+                    <h2></h2>
+                </div>
+        </article>
+        <a name="infinito">
+            <article class="entrada">
+                <div class="texto-entrada">
+                    <h1>Calculator</h1>
+                </div>
+                <a asp-controller="Home" asp-action="CalculadoraIntegrales" class="boton boton-amarillo ">See</a>
+            </article>
+            <div class="texto-entrada">
+                <h2></h2>
+            </div>
+        </a>
+        <a name="multivariado">
+            <article class="entrada">
+                <div class="texto-entrada">
+                    <h1>Building of 3D functions</h1>
+                </div>
+                <h3>What is one cuadratic surface?</h3>
+                <p>A quadratic surface is the graphic of one equation of second grade on three variables 
+                x,y,z. <br>The surfaces quadratic is the opposing party on 3 dimentions of the conic sections of one plane.</p>
+                <h4>7 quadratic surfaces are shown below with their respective equations developed on Geogebra.
+                <br>This surfaces are interactives.</h4>
+                <iframe id="h2Hojas" src="https://www.geogebra.org/classic/usam2pvn?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+                <div class="texto-entrada">
+                    <h2></h2>
+                </div>
+                <iframe src="https://www.geogebra.org/classic/cjrhpeeg?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+                <div class="texto-entrada">
+                    <h2></h2>
+                </div>
+                <iframe src="https://www.geogebra.org/classic/a4qwypzk?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+                <div class="texto-entrada">
+                    <h2></h2>
+                </div>
+                <iframe src="https://www.geogebra.org/classic/suvndjsc?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+                <div class="texto-entrada">
+                    <h2></h2>
+                </div>
+                <iframe src="https://www.geogebra.org/classic/byef5gdu?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+                <div class="texto-entrada">
+                    <h2></h2>
+                </div>
+                <iframe src="https://www.geogebra.org/classic/adg5bb8d?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+                <div class="texto-entrada">
+                    <h2></h2>
+                </div>
+                <iframe src="https://www.geogebra.org/classic/h7snrcdw?embed" width="1200" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+            </article>
+        </a>
+</section>
